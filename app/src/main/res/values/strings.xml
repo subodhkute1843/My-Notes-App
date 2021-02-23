@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="welcome_back">Welcome Back !</string>
+    <string name="log_in_to_continue">Log In To Continue</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="title_activity__notes">activity_Notes</string>
+</resources>

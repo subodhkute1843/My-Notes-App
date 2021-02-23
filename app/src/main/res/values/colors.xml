@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="icons">#8DD883</color>
+    <color name="teal_700">#00796B</color>
+    <color name="teal_200">#008080</color>
+
+    <color name="khaki">#7E9D7D</color>
+    <color name="KESHARI">#E2765C</color>
+    <color name="JAMBHALA">#F8BBD0</color>
+    <color name="grey">#b5b8c0</color>
+    <color name="SKIN">#F8E9DE</color>
+    <color name="HIRWA">#8DD883</color>
+    <color name="PIWLA">#F1C335</color>
+    <color name="AKASHI">#9BE6F2</color>
+    <color name="color1">#ccf6cb</color>
+    <color name="color2">#e5cfe5</color>
+    <color name="color3">#27b4ff</color>
+    <color name="color4">#ff7562</color>
+</resources>
